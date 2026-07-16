@@ -1,0 +1,27 @@
+encryption_system/
+├── assets/
+│   ├── css/
+│   │   ├── style.css
+│   │   └── responsive.css
+│   ├── js/
+│   │   └── main.js
+│   └── images/
+├── config/
+│   └── database.php
+├── includes/
+│   ├── header.php
+│   ├── footer.php
+│   └── functions.php
+├── modules/
+│   ├── auth/
+│   │   ├── login.php
+│   │   ├── register.php
+│   │   └── logout.php
+│   ├── encryption/
+│   │   ├── encrypt.php
+│   │   └── decrypt.php
+│   └── dashboard/
+│       └── index.php
+├── database/
+│   └── schema.sql
+└── index.php
